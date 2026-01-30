@@ -106,6 +106,57 @@
           </mj-column>
         </mj-section>
 
+        <!-- HERO SECTION -->
+        <mj-hero
+          mode="fixed-height"
+          height="200px"
+          background-url="images/hero_life.png"
+          background-position="center center"
+          background-size="cover"
+          padding="0"
+        >
+          <mj-column vertical-align="middle">
+            <mj-text
+              align="center"
+              color="#ffffff"
+              font-size="20px"
+              font-weight="500"
+              padding="10px 24px 8px 24px"
+            >
+              This Week&#8217;s
+            </mj-text>
+
+            <mj-text
+              align="center"
+              color="#ffffff"
+              font-size="40px"
+              font-weight="800"
+              padding="0 24px 16px 24px"
+            >
+              Update &amp; Events!
+            </mj-text>
+
+            <mj-text
+              align="center"
+              font-size="16px"
+              font-weight="400"
+              padding="0"
+            >
+              <span
+                style="
+                  display: inline-block;
+                  color: #df7242;
+                  border: 2px solid #df7242;
+                  border-radius: 15px;
+                  padding: 8px 20px;
+                "
+              >
+                April 22nd to the 28th
+              </span>
+            </mj-text>
+          </mj-column>
+        </mj-hero>
+
         <!-- BODY (placeholder) -->
         <mj-section padding="24px">
           <mj-column>
