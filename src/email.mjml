@@ -157,6 +157,64 @@
           </mj-column>
         </mj-hero>
 
+        <!-- QUOTE SECTION -->
+        <mj-section background-color="#0F152C" padding="0">
+          <mj-column padding="20px 0px">
+            <mj-table
+              width="100%"
+              align="center"
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+            >
+              <tr>
+                <!-- IMAGE -->
+                <td width="100" valign="top" style="padding-right: 20px">
+                  <img
+                    src="images/kosta.png"
+                    alt="Kosta Gara"
+                    width="100"
+                    height="100"
+                    style="display: block; border-radius: 50%"
+                  />
+                </td>
+
+                <!-- TEXT -->
+                <td valign="top">
+                  <p
+                    style="
+                      margin: 0 0 12px 0;
+                      font-family: Montserrat, Arial, Helvetica, sans-serif;
+                      font-size: 16px;
+                      color: #ffffff;
+                      text-align: justify;
+                    "
+                  >
+                    <span style="color: #df7242">“</span>
+                    The two most important ingredients necessary to become an
+                    elite relationship builder are communication and connection.
+                    <span style="color: #df7242">”</span>
+                  </p>
+
+                  <p
+                    style="
+                      margin: 0;
+                      font-family: Montserrat, Arial, Helvetica, sans-serif;
+                      font-size: 16px;
+                      font-style: italic;
+                      font-weight: 300;
+                      color: #df7242;
+                    "
+                  >
+                    – Kosta Gara, CEO
+                  </p>
+                </td>
+              </tr>
+            </mj-table>
+          </mj-column>
+        </mj-section>
+
+
         <!-- BODY (placeholder) -->
         <mj-section padding="24px">
           <mj-column>
