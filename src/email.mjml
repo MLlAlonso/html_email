@@ -214,27 +214,620 @@
           </mj-column>
         </mj-section>
 
+        <!-- BODY CARDS SECTION -->
+        <mj-section background-color="#1C222D" padding="0">
+          <mj-column padding="32px 16px">
+            <mj-table
+              width="100%"
+              align="center"
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+            >
+              <!-- CARD 1 -->
+              <tr>
+                <td
+                  style="
+                    background-color: #2d3442;
+                    border: 1px solid rgba(108, 108, 108, 0.8);
+                    padding: 20px;
+                  "
+                >
+                  <table
+                    width="100%"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                  >
+                    <tr>
+                      <td width="120" valign="top" style="padding-right: 16px">
+                        <img
+                          src="images/card01.png"
+                          alt="Spring Promo"
+                          width="120"
+                          style="display: block; border-radius: 8px"
+                        />
+                      </td>
+                      <td valign="top" align="center">
+                        <p
+                          style="
+                            margin: 0 0 8px 0;
+                            font-size: 18px;
+                            font-weight: 700;
+                            color: #ffffff;
+                          "
+                        >
+                          Enjoy this Spring with our Sprays!
+                        </p>
+                        <p
+                          style="
+                            margin: 0 0 12px 0;
+                            font-size: 14px;
+                            font-weight: 500;
+                            color: #ffffff;
+                          "
+                        >
+                          Last week of our Spring promo! Buy ANY box and get a
+                          Lite Version for FREE until April 14th!
+                        </p>
+                        <a
+                          href="https://velovita.com/es/"
+                          target="_blank"
+                          style="
+                            font-size: 14px;
+                            font-weight: 700;
+                            color: #df703d;
+                            text-decoration: none;
+                          "
+                        >
+                          Learn More
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
 
-        <!-- BODY (placeholder) -->
-        <mj-section padding="24px">
-          <mj-column>
-            <mj-text> Body content placeholder </mj-text>
+              <tr>
+                <td height="20"></td>
+              </tr>
+
+              <!-- CARD 2 -->
+              <tr>
+                <td
+                  style="
+                    background-color: #2d3442;
+                    border: 1px solid rgba(108, 108, 108, 0.8);
+                    padding: 20px;
+                  "
+                >
+                  <table
+                    width="100%"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                  >
+                    <tr>
+                      <td
+                        valign="top"
+                        align="center"
+                        style="padding-right: 16px"
+                      >
+                        <p
+                          style="
+                            margin: 0 0 8px 0;
+                            font-size: 18px;
+                            font-weight: 700;
+                            color: #ffffff;
+                          "
+                        >
+                          Fiesta 4 All!
+                        </p>
+                        <p
+                          style="
+                            margin: 0 0 12px 0;
+                            font-size: 14px;
+                            font-weight: 500;
+                            color: #ffffff;
+                          "
+                        >
+                          Get your crew ready for our 4th anniversary Fiesta on
+                          May 5th! Don't miss out—join our celebration at home
+                          with your watch party!
+                        </p>
+                        <a
+                          href="https://velovita.com/es/"
+                          target="_blank"
+                          style="
+                            font-size: 14px;
+                            font-weight: 700;
+                            color: #df703d;
+                            text-decoration: none;
+                          "
+                        >
+                          See Flyer
+                        </a>
+                      </td>
+                      <td width="140" valign="top">
+                        <img
+                          src="images/card02.png"
+                          alt="Fiesta Event"
+                          width="120"
+                          style="display: block; border-radius: 8px"
+                        />
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td height="20"></td>
+              </tr>
+
+              <!-- CARD 3 -->
+              <tr>
+                <td
+                  style="
+                    background-color: #2d3442;
+                    border: 1px solid rgba(108, 108, 108, 0.8);
+                    padding: 20px;
+                  "
+                >
+                  <table
+                    width="100%"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                  >
+                    <tr>
+                      <td width="140" valign="top" style="padding-right: 16px">
+                        <img
+                          src="images/card03.png"
+                          alt="Incentive Trip"
+                          width="120"
+                          style="display: block; border-radius: 8px"
+                        />
+                      </td>
+                      <td valign="middle" align="center">
+                        <p
+                          style="
+                            margin: 0;
+                            font-size: 14px;
+                            font-weight: 500;
+                            color: #ffffff;
+                          "
+                        >
+                          Congratulations to all our Incentive Trip attendees!
+                          Wishing you fun, relaxation, beach time, and valuable
+                          insights from fellow Members and leaders. See you
+                          soon!
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </mj-table>
           </mj-column>
         </mj-section>
 
-        <!-- CTA (placeholder) -->
-        <mj-section padding="24px">
-          <mj-column align="center">
-            <mj-button href="#"> Call to Action </mj-button>
-          </mj-column>
-        </mj-section>
+        <!-- EVENTS SECTION -->
+        <mj-section background-color="#0F152C" padding="0">
+          <mj-column padding="40px 16px">
+            <!-- SECTION TITLE -->
+            <mj-table
+              width="100%"
+              align="center"
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+            >
+              <tr>
+                <td align="center">
+                  <p
+                    style="
+                      margin: 0 0 6px 0;
+                      font-size: 16px;
+                      font-weight: 500;
+                      color: #df703d;
+                    "
+                  >
+                    Join us this week for
+                  </p>
+                  <p
+                    style="
+                      margin: 0 0 32px 0;
+                      font-size: 26px;
+                      font-weight: 700;
+                      color: #ffffff;
+                    "
+                  >
+                    motivation, trainings and inspiration!
+                  </p>
+                </td>
+              </tr>
+            </mj-table>
 
-        <!-- FOOTER (placeholder) -->
-        <mj-section background-color="#f0f0f0" padding="24px">
-          <mj-column>
-            <mj-text font-size="12px" color="#777777" align="center">
-              © 2026 Velovita. All rights reserved.
-            </mj-text>
+            <!-- CARD 1 -->
+            <mj-table
+              width="100%"
+              align="center"
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+            >
+              <tr>
+                <td
+                  style="
+                    background-color: #1c222d;
+                    border-radius: 10px;
+                    padding: 15px;
+                  "
+                >
+                  <table
+                    width="100%"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                  >
+                    <tr>
+                      <td align="center">
+                        <p
+                          style="
+                            margin: 0 0 16px 0;
+                            font-size: 18px;
+                            font-weight: 500;
+                            color: #ffffff;
+                          "
+                        >
+                          Monday Night Training
+                        </p>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>
+                        <table
+                          width="100%"
+                          cellpadding="0"
+                          cellspacing="0"
+                          role="presentation"
+                        >
+                          <tr>
+                            <!-- IMAGE -->
+                            <td width="40%">
+                              <img
+                                src="images/Rory.png"
+                                alt="Monday Training"
+                                width="100%"
+                                height="300px"
+                                style="display: block; border-radius: 8px"
+                              />
+                            </td>
+
+                            <!-- DESCRIPTION -->
+                            <td
+                              valign="top"
+                              align="center"
+                              style="
+                                border: 1px solid #ffffff;
+                                border-radius: 10px;
+                                padding: 12px;
+                              "
+                            >
+                              <p
+                                style="
+                                  margin: 0 0 6px 0;
+                                  font-size: 13px;
+                                  color: #df703d;
+                                "
+                              >
+                                Description:
+                              </p>
+                              <p
+                                style="
+                                  margin: 0 0 8px 0;
+                                  font-size: 13px;
+                                  color: #ffffff;
+                                "
+                              >
+                                Tools from the Velovita pros! Grow your
+                                Business!
+                              </p>
+                              <p
+                                style="
+                                  margin: 0;
+                                  font-size: 13px;
+                                  color: #ffffff;
+                                "
+                              >
+                                Hosted by:
+                              </p>
+                              <p
+                                style="
+                                  margin: 0 0 8px 0;
+                                  font-size: 13px;
+                                  color: #ffffff;
+                                "
+                              >
+                                <span style="color: #df703d">Rory Ricord</span>
+                                and
+                                <span style="color: #df703d"
+                                  >Valeria Durán</span
+                                >
+                              </p>
+
+                              <p
+                                style="
+                                  margin: 0;
+                                  background-color: #df703d;
+                                  color: #ffffff;
+                                  font-size: 12px;
+                                  padding: 8px 4px;
+                                "
+                              >
+                                Monday at<br />
+                                8 PM ET &nbsp; 6 PM CT &nbsp; 5 PM PST
+                              </p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+
+                    <!-- CTA -->
+                    <tr>
+                      <td align="center" style="padding: 16px 0 8px 0">
+                        <a
+                          href="https://vvzoom.zoom.us/j/639089148#success"
+                          style="
+                            color: #df7242;
+                            border: 1px solid #df7242;
+                            border-radius: 20px;
+                            padding: 6px 18px;
+                            font-size: 13px;
+                            font-weight: 600;
+                            text-decoration: none;
+                            display: inline-block;
+                          "
+                        >
+                          Join Now!
+                        </a>
+                      </td>
+                    </tr>
+
+                    <!-- LINK -->
+                    <tr>
+                      <td align="center">
+                        <table
+                          cellpadding="0"
+                          cellspacing="0"
+                          role="presentation"
+                        >
+                          <tr>
+                            <td style="padding-right: 6px">
+                              <img
+                                src="images/video.png"
+                                alt="Zoom"
+                                width="25px"
+                                height="25px"
+                                style="display: block"
+                              />
+                            </td>
+                            <td>
+                              <a
+                                href="https://vvzoom.zoom.us/j/639089148#success"
+                                style="
+                                  font-size: 12px;
+                                  color: #ffffff;
+                                  text-decoration: none;
+                                "
+                              >
+                                https://vvzoom.zoom.us/j/639089148#success
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </mj-table>
+
+            <!-- SPACING -->
+            <mj-table width="100%" align="center" role="presentation">
+              <tr>
+                <td height="24"></td>
+              </tr>
+            </mj-table>
+
+            <!-- CARD 2 -->
+            <mj-table
+              width="100%"
+              align="center"
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+            >
+              <tr>
+                <td
+                  style="
+                    background-color: #1c222d;
+                    border-radius: 10px;
+                    padding: 20px;
+                  "
+                >
+                  <table
+                    width="100%"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                  >
+                    <tr>
+                      <td align="center">
+                        <p
+                          style="
+                            margin: 0 0 16px 0;
+                            font-size: 18px;
+                            font-weight: 500;
+                            color: #ffffff;
+                          "
+                        >
+                          Tuesday Night Training
+                        </p>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>
+                        <table
+                          width="100%"
+                          cellpadding="0"
+                          cellspacing="0"
+                          role="presentation"
+                        >
+                          <tr>
+                            <!-- IMAGE -->
+                            <td width="40%">
+                              <img
+                                src="images/valeria_duran.png"
+                                alt="Monday Training"
+                                width="100%"
+                                height="300px"
+                                style="display: block; border-radius: 8px"
+                              />
+                            </td>
+
+                            <!-- DESCRIPTION -->
+                            <td
+                              valign="top"
+                              align="center"
+                              style="
+                                border: 1px solid #ffffff;
+                                border-radius: 10px;
+                                padding: 12px;
+                              "
+                            >
+                              <p
+                                style="
+                                  margin: 0 0 6px 0;
+                                  font-size: 13px;
+                                  color: #df703d;
+                                "
+                              >
+                                Description:
+                              </p>
+                              <p
+                                style="
+                                  margin: 0 0 8px 0;
+                                  font-size: 13px;
+                                  color: #ffffff;
+                                "
+                              >
+                                Spread the word about Velovita! Get informed!
+                              </p>
+                              <p
+                                style="
+                                  margin: 0;
+                                  font-size: 13px;
+                                  color: #ffffff;
+                                "
+                              >
+                                Hosted by:
+                              </p>
+                              <p
+                                style="
+                                  margin: 0 0 8px 0;
+                                  font-size: 13px;
+                                  color: #ffffff;
+                                "
+                              >
+                                <span style="color: #df703d">Rory Ricord</span>
+                                and
+                                <span style="color: #df703d"
+                                  >Valeria Durán</span
+                                >
+                              </p>
+
+                              <p
+                                style="
+                                  margin: 0;
+                                  background-color: #df703d;
+                                  color: #ffffff;
+                                  font-size: 12px;
+                                  padding: 8px 4px;
+                                "
+                              >
+                                Tuesday at<br />
+                                8 PM ET &nbsp; 6 PM CT &nbsp; 5 PM PST
+                              </p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+
+                    <!-- CTA -->
+                    <tr>
+                      <td align="center" style="padding: 16px 0 8px 0">
+                        <a
+                          href="https://vvzoom.zoom.us/j/639089148#success"
+                          style="
+                            color: #df7242;
+                            border: 1px solid #df7242;
+                            border-radius: 20px;
+                            padding: 6px 18px;
+                            font-size: 13px;
+                            font-weight: 600;
+                            text-decoration: none;
+                            display: inline-block;
+                          "
+                        >
+                          Join Now!
+                        </a>
+                      </td>
+                    </tr>
+
+                    <!-- LINK -->
+                    <tr>
+                      <td align="center">
+                        <table
+                          cellpadding="0"
+                          cellspacing="0"
+                          role="presentation"
+                        >
+                          <tr>
+                            <td style="padding-right: 6px">
+                              <img
+                                src="images/video.png"
+                                alt="Zoom"
+                                width="25px"
+                                height="25px"
+                                style="display: block"
+                              />
+                            </td>
+                            <td>
+                              <a
+                                href="https://vvzoom.zoom.us/j/639089148#success"
+                                style="
+                                  font-size: 12px;
+                                  color: #ffffff;
+                                  text-decoration: none;
+                                "
+                              >
+                                https://vvzoom.zoom.us/j/639089148#success
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </mj-table>
           </mj-column>
         </mj-section>
       </mj-column>
